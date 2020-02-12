@@ -1,0 +1,9 @@
+D:\Desktop\Visual Studio\Calculator_winform\Calculator\bin\Debug\Calculator.exe.config
+D:\Desktop\Visual Studio\Calculator_winform\Calculator\bin\Debug\Calculator.exe
+D:\Desktop\Visual Studio\Calculator_winform\Calculator\bin\Debug\Calculator.pdb
+D:\Desktop\Visual Studio\Calculator_winform\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\Desktop\Visual Studio\Calculator_winform\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Desktop\Visual Studio\Calculator_winform\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\Desktop\Visual Studio\Calculator_winform\Calculator\obj\Debug\Calculator.exe
+D:\Desktop\Visual Studio\Calculator_winform\Calculator\obj\Debug\Calculator.pdb
+D:\Desktop\Visual Studio\Calculator_winform\Calculator\obj\Debug\Calculator.calculator.resources
